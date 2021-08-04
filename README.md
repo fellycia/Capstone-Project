@@ -49,5 +49,5 @@ Topics that customers were dissatisfied about - Instant coffee and tea, bottled 
 Further enhancement to this project can be made, we can do further in-depth analysis in topic modeling and further tune the neural network.
 
 
-Note: Due to the limited space on github, datasets files and weights file saved from deep learning model could be found in the link below:
+Note: Due to the limited space on github, datasets files could not be uploaded and hence is stored in this link instead:
 https://drive.google.com/drive/folders/1cbmyzor3_Sq91RAC6qdAC4K5BeHTsXG7?usp=sharing
